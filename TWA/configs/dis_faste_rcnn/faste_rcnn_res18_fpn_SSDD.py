@@ -164,4 +164,4 @@ data = dict(
 evaluation = dict(interval=1, metric='bbox')
 
 lr_config = dict(step=[16, 22])
-runner = dict(type='EpochBasedRunner', max_epochs=24)
+runner = dict(type='EpochBasedRunner', max_epochs=30)
