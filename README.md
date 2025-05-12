@@ -10,7 +10,8 @@ Add the mmdet/models/detectors/. in our codes to the mmdet/models/detectors/.
 Unzip LEVIR and SSDD dataset into data/coco/
 
 ## Citation
-
+If you find our repo useful for your research, please cite us:
+```
 @ARTICLE{10453608,
   author={Yang, Xi and Zhang, Sheng and Yang, Weichao},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
@@ -21,4 +22,4 @@ Unzip LEVIR and SSDD dataset into data/coco/
   pages={1-10},
   keywords={Feature extraction;Remote sensing;Detectors;Image coding;Object detection;Head;Computational modeling;Knowledge distillation (KD);object detection;remote sensing images;two-way assistant (TWA)},
   doi={10.1109/TGRS.2024.3371681}}
-
+```
